@@ -1,2 +1,2 @@
 Alpha 0.1:
-Added Finalpack Lite to FPUpdater experimental profile feature
+Added Finalpack Lite to FPUpdater's experimental profile feature

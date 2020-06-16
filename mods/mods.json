@@ -25,5 +25,5 @@
 		"worleycaves-1.14.4-1.6.0.jar",
 		"[1.14.4]+SecurityCraft+v1.8.18.1.jar"
 	],
-	"target": "config"
+	"target": "mods"
 }

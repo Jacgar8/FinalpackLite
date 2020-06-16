@@ -1,0 +1,29 @@
+{
+	"version_": 0.1,
+	"files": [
+		"AutoRegLib-1.4-35.jar",
+		"Botania+r1.11-379.jar",
+		"cliententitycleanup-1.0.jar",
+		"create-mc1.14.4_v0.2.3.jar",
+		"curios-FORGE-1.14.4-1.0.6.1.jar",
+		"expansionmod-1.0.jar",
+		"gravestone-1.15.2.jar",
+		"immersive-portals-0.15(for+mc+1.14+with+forge).jar",
+		"ImmersiveEngineering-0.14-96.jar",
+		"jei-1.14.4-6.0.0.27.jar",
+		"mgui-1.14.4-1.2.0.jar",
+		"MixinBootstrap-1.0.3.jar",
+		"mods.json",
+		"obfuscate-0.4.1-1.14.4.jar",
+		"Patchouli-1.14.4-1.1-26.5.jar",
+		"Quark-r2.0-212.jar",
+		"ReAuth-1.14-1.15-3.8.1.jar",
+		"secretrooms-6.0.5.jar",
+		"Tardis-Mod-1.14.4-1.2.jar",
+		"tetra-1.14.4-1.27.0.jar",
+		"vehicle-mod-0.44.0-1.14.4.jar",
+		"worleycaves-1.14.4-1.6.0.jar",
+		"[1.14.4]+SecurityCraft+v1.8.18.1.jar"
+	],
+	"target": "config"
+}

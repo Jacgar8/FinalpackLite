@@ -22,7 +22,9 @@
 		"tetra-1.14.4-1.27.0.jar",
 		"vehicle-mod-0.44.0-1.14.4.jar",
 		"worleycaves-1.14.4-1.6.0.jar",
-		"[1.14.4]+SecurityCraft+v1.8.18.1.jar"
+		"[1.14.4]+SecurityCraft+v1.8.18.1.jar",
+		"rats-4.1.1-1.14.4.jar",
+		"citadel-1.0.4-1.14.4.jar"
 	],
 	"target": "mods"
 }

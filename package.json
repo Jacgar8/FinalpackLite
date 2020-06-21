@@ -2,6 +2,7 @@
 	"version_": 0.1,
 	"files": [
 		"mods/mods.json",
-		"config/configs.json"
+		"config/configs.json",
+		"packmenu/resources.json"
 	]
 }

@@ -1,2 +1,2 @@
-Alpha 0.1:
-Added Finalpack Lite to FPUpdater's experimental profile feature
+Alpha 0.2:
+Updated TARDIS Mod

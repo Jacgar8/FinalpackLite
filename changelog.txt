@@ -1,2 +1,2 @@
-Alpha 0.2:
-Updated TARDIS Mod
+Alpha 0.23:
+Added the Regeneration Mod

@@ -22,7 +22,9 @@
 		"tetra.toml",
 		"vehicle-client.toml",
 		"worleycaves-client.toml",
-		"worleycaves-common.toml"
+		"worleycaves-common.toml",
+		"regeneration-client.toml",
+		"regeneration-common.toml"
 	],
 	"target": "config"
 }

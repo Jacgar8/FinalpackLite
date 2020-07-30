@@ -1,2 +1,2 @@
-Alpha 0.4:
-Added CC: Tweaked
+Alpha 0.41:
+Reverted 0.4

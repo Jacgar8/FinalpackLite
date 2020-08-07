@@ -1,5 +1,5 @@
 {
-	"version_": 0.1,
+	"version_": 0.43,
 	"files": [
 		"AutoRegLib-1.4-35.jar",
 		"Botania+r1.11-379.jar",
@@ -25,7 +25,8 @@
 		"citadel-1.0.4-1.14.4.jar",
 		"PackMenu-1.14.4-0.2.5.jar",
 		"Placebo-1.14.4-2.3.5.jar",
-		"Regeneration-1.14.4-3.0.0.jar"
+		"Regeneration-1.14.4-3.0.0.jar",
+		"createintegration-0.1.6b.jar"
 	],
 	"target": "mods"
 }

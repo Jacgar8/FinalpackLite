@@ -1,3 +1,10 @@
-Alpha 0.43:
-Added CreateIntegration
-Changed the main menu background
+Alpha 0.5:
+Additions:
+	Added Apotheosis
+	Added DynamicSurroundings: Sound Control
+	Added DynamicSurroundings: Mob Effects
+	Added DynamicSurroundings: Environs
+	Added Eyes In The Darkness
+	Added Morpheus
+	Added Permasonia
+	Added Upgrade Aquatic

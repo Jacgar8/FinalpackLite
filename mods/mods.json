@@ -1,5 +1,5 @@
 {
-	"version_": 0.43,
+	"version_": 0.5,
 	"files": [
 		"AutoRegLib-1.4-35.jar",
 		"Botania+r1.11-379.jar",
@@ -26,7 +26,15 @@
 		"PackMenu-1.14.4-0.2.5.jar",
 		"Placebo-1.14.4-2.3.5.jar",
 		"Regeneration-1.14.4-3.0.0.jar",
-		"createintegration-0.1.6b.jar"
+		"createintegration-0.1.6b.jar",
+		"Apotheosis-1.14.4-2.4.4.jar",
+		"Environs-1.14.4-0.1.0.0.jar",
+		"EyesInTheDarkness-1.14.4-0.2.0.jar",
+		"MobEffects-1.14.4-0.1.0.0.jar",
+		"Morpheus-1.14.4-4.2.44.jar",
+		"permasomnia_v1.0.0_formc1.14.4.jar",
+		"SoundControl-1.14.4-0.1.0.0.jar",
+		"Upgrade-Aquatic-1.14.4-v1.4.10.jar"
 	],
 	"target": "mods"
 }

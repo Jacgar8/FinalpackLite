@@ -1,5 +1,5 @@
 {
-	"version_": 0.43,
+	"version_": 0.5,
 	"files": [
 		"botania-client.toml",
 		"botania-common.toml",
@@ -25,6 +25,9 @@
 		"worleycaves-common.toml",
 		"regeneration-client.toml",
 		"regeneration-common.toml"
+		"environs/environs-client.toml",
+		"mobeffects/mobeffects-client.toml",
+		"sndctrl/sndctrl-client.toml"
 	],
 	"target": "config"
 }

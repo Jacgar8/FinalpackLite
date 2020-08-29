@@ -24,7 +24,7 @@
 		"worleycaves-client.toml",
 		"worleycaves-common.toml",
 		"regeneration-client.toml",
-		"regeneration-common.toml"
+		"regeneration-common.toml",
 		"environs/environs-client.toml",
 		"mobeffects/mobeffects-client.toml",
 		"sndctrl/sndctrl-client.toml"

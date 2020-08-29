@@ -1,0 +1,9 @@
+{
+  "version_": 0.1,
+  "files": [
+    "MixinBootstrap-1.0.3.jar",
+    "OptiFine_1.14.4_HD_U_F5.jar",
+    "OptiForge-MC1.14.4-0.1.2.jar"
+  ],
+  "target": "mods"
+}

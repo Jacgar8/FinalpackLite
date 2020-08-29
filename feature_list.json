@@ -1,4 +1,9 @@
 {
 	"features": [
+			"name": "Optifine", 
+			"packages": [
+				"optional/optifine.json"
+			],
+			"default_": false
 	]
 }

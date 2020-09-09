@@ -1,4 +1,2 @@
-Alpha 0.6:
+Alpha 0.61:
 Updated TARDIS Mod
-Updated Regeneration
-Remove EyesInTheDarkness

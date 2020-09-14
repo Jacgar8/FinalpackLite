@@ -1,0 +1,8 @@
+{
+  "version_": 0.62,
+  "files": [
+    "mobeffects-client.toml"
+  ],
+  "override": true,
+  "target": "mods"
+}

@@ -6,6 +6,13 @@
 				"optional/optifine.json"
 			],
 			"default_": false
+		},
+		{
+			"name": "Armour Sounds", 
+			"packages": [
+				"optional/armour_sounds.json"
+			],
+			"default_": true
 		}
 	]
 }

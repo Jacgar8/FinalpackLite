@@ -4,5 +4,5 @@
     "mobeffects-client.toml"
   ],
   "override": true,
-  "target": "mods"
+  "target": "config"
 }

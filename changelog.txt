@@ -1,4 +1,4 @@
 Alpha 0.7:
 Reworked updater to download from Curseforge
 Updated mods
-Added FastWorkbench and FaskFurnace
+Added FastWorkbench and FastFurnace

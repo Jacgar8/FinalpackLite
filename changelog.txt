@@ -1,4 +1,2 @@
-Alpha 0.7:
-Reworked updater to download from Curseforge
-Updated mods
-Added FastWorkbench and FastFurnace
+Alpha 0.71:
+Added Master's Delight

@@ -35,7 +35,7 @@
 	#Enable/disable Firefly effect around plants
 	Fireflies = true
 	#Enable/disable Fountain Jets spraying
-	"Fountain Jets" = true
+	"Fountain Jets" = false
 	#Enable/disable Water Splash effects when water spills down
 	"Water Splash" = true
 	#Enable/disable Minecrafts Underwater particle effect

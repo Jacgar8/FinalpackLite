@@ -37,7 +37,7 @@
 	#Enable/disable Fountain Jets spraying
 	"Fountain Jets" = true
 	#Enable/disable Water Splash effects when water spills down
-	"Water Splash" = false
+	"Water Splash" = true
 	#Enable/disable Minecrafts Underwater particle effect
 	"Disable Underwater Particles" = false
 
@@ -51,7 +51,7 @@
 	"Bedrock Fog" = false
 	#Chance morning fog will occurs expressed as 1 in N
 	#Range: > 0
-	"Morning Fog Chance" = 5
+	"Morning Fog Chance" = 1
 	#Show morning fog that eventually burns off
 	"Morning Fog" = true
 	#Higher the player elevation the more haze that is experienced

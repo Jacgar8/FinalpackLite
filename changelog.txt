@@ -1,2 +1,2 @@
-Alpha 0.81:
-Added Serene Seasons
+Alpha 0.82:
+Removed Regeneration

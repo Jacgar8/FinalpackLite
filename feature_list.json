@@ -8,7 +8,7 @@
 			"default_": false
 		},
 		{
-			"name": "Enhanced Effects"
+			"name": "Enhanced Effects",
 			"packages": [
 				"optional/enhanced_effects.json"
 			],

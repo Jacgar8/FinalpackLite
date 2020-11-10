@@ -1,2 +1,2 @@
-Alpha 0.82:
-Removed Regeneration
+Alpha 0.84:
+Fixed soul vials

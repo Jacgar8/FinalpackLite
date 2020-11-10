@@ -1,2 +1,2 @@
-Alpha 0.84:
-Fixed soul vials
+Alpha 0.85:
+Fixed missing mod

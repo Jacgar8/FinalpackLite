@@ -8,7 +8,14 @@
 			"default_": false
 		},
 		{
-			"name": "Armour Sounds", 
+			"name": "Enhanced Effects"
+			"packages": [
+				"optional/enhanced_effects.json"
+			],
+			"default_": true
+		},
+		{
+			"name": "Armour Sounds (Requires Above)", 
 			"packages": [
 				"optional/armour_sounds.json"
 			],

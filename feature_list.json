@@ -12,7 +12,7 @@
 			"packages": [
 				"optional/enhanced_effects.json"
 			],
-			"default_": true
+			"default_": false
 		},
 		{
 			"name": "Armour Sounds (Requires Above)", 

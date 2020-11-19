@@ -3,7 +3,6 @@
 	"files": [
 		"botania-client.toml",
 		"botania-common.toml",
-		"cec-common.toml",
 		"create-client.toml",
 		"create-common.toml",
 		"curios-client.toml",
@@ -12,9 +11,6 @@
 		"forge-client.toml",
 		"gravestone-client.toml",
 		"immersiveengineering-common.toml",
-		"immersive_portals-client.toml",
-		"midnight-client.toml",
-		"midnight-common.toml",
 		"patchouli-common.toml",
 		"quark-common.toml",
 		"securitycraft-common.toml",
@@ -23,8 +19,6 @@
 		"vehicle-client.toml",
 		"worleycaves-client.toml",
 		"worleycaves-common.toml",
-		"regeneration-client.toml",
-		"regeneration-common.toml",
 		"environs/environs-client.toml",
 		"mobeffects/mobeffects-client.toml",
 		"sndctrl/sndctrl-client.toml"

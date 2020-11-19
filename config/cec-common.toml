@@ -1,7 +1,0 @@
-
-[Schedule]
-	#Hour to shutdown the server
-	scheduleHour = 0
-	#Minute to shutdown the server
-	scheduleMinute = 0
-

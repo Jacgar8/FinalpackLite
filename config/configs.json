@@ -17,10 +17,10 @@
 		"tardis-common.toml",
 		"tetra.toml",
 		"vehicle-client.toml",
-		"worleycaves-common.toml",
 		"environs/environs-client.toml",
 		"mobeffects/mobeffects-client.toml",
-		"sndctrl/sndctrl-client.toml"
+		"sndctrl/sndctrl-client.toml",
+		"bettercaves-1_14_4.toml"
 	],
 	"target": "config"
 }

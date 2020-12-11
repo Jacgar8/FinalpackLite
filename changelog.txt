@@ -1,4 +1,6 @@
-Alpha 0.92:
-Removed Worley's Caves
-Added Yung's Better Caves
-Added The Midnight
+Release 1.0:
+Added SBM JukeBox
+Added StorageDrawers
+Added ImmersivePetroleum
+Removed CreateIntegration
+Updated ExpansionMod

@@ -1,6 +1,2 @@
-Release 1.0:
-Added SBM JukeBox
-Added StorageDrawers
-Added ImmersivePetroleum
-Removed CreateIntegration
-Updated ExpansionMod
+Release 1.01:
+Removed Upgrade Aquatic

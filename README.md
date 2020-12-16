@@ -69,5 +69,3 @@
 [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) 
 
 [Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
-
-[Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights)

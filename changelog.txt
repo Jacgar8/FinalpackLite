@@ -1,2 +1,2 @@
-Release 1.1:
-Added FairyLights
+Release 1.01:
+Removed Upgrade Aquatic

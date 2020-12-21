@@ -1,2 +1,2 @@
-Release 1.01:
-Removed Upgrade Aquatic
+Release 1.02:
+Removed ImmersivePetroleum

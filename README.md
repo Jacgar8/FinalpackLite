@@ -14,8 +14,6 @@
 
 [Create](https://www.curseforge.com/minecraft/mc-mods/create)
 
-[Create Integration](https://www.curseforge.com/minecraft/mc-mods/create-integration)
-
 [Curios](https://www.curseforge.com/minecraft/mc-mods/curios)
 
 [Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
@@ -59,8 +57,6 @@
 [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)
 
 [The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight)
-
-[Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
 
 [MrCrayfish's Vechicle Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-vehicle-mod)
 

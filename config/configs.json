@@ -20,7 +20,8 @@
 		"environs/environs-client.toml",
 		"mobeffects/mobeffects-client.toml",
 		"sndctrl/sndctrl-client.toml",
-		"bettercaves-1_14_4.toml"
+		"bettercaves-1_14_4.toml",
+		"packmenu.cfg"
 	],
 	"target": "config"
 }

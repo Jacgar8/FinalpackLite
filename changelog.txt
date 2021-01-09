@@ -1,2 +1,14 @@
-Release 1.1:
-Removed SereneSeasons (Fixes ConcurrentModificationException crash)
+Release 1.3:
+Updated to 1.16!
+Removed TARDIS Mod (Temporary)
+Removed The Midnight (Temporary)
+Removed SecretRooms
+Removed Master's Delight
+Removed ReAuth
+
+Added ImmersivePetroleum
+Added Ice And Fire
+Added Regeneration
+Added Applied Energistics 2
+
+Updated all other mods

@@ -20,6 +20,13 @@
 				"optional/armour_sounds.json"
 			],
 			"default_": true
+		},
+		{
+			"name": "JoJo's Resource Pack",
+			"packages": [
+				"optional/jojo_rs.json"
+			],
+			"default_": false
 		}
 	]
 }

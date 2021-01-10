@@ -1,14 +1,2 @@
-Release 2.0:
-Updated to 1.16!
-Removed TARDIS Mod (Temporary)
-Removed The Midnight (Temporary)
-Removed SecretRooms
-Removed Master's Delight
-Removed ReAuth
-
-Added ImmersivePetroleum
-Added Ice And Fire
-Added Regeneration
-Added Applied Energistics 2
-
-Updated all other mods
+Release 2.1:
+Added Platforms

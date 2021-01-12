@@ -1,2 +1,2 @@
-Release 2.1:
-Added Platforms
+Release 2.11:
+Removed VehicleMod (Fixes the armour visual bug)

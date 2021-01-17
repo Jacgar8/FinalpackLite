@@ -1,2 +1,2 @@
-Release 2.11:
-Removed VehicleMod (Fixes the armour visual bug)
+Release 2.12:
+Removed SereneSeasons

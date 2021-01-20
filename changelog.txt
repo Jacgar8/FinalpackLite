@@ -1,3 +1,2 @@
-Release 2.13:
-Fixed potential Soul Vial performance issue
-Updated Create
+Release 2.13 Hotfix 1:
+Fixed desync issue between server and client

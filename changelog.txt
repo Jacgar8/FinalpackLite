@@ -1,2 +1,2 @@
-Release 2.13 Hotfix 1:
-Fixed desync issue between server and client
+Release 2.14:
+Updated AppliedEnergistics 2

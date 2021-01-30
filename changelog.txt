@@ -1,5 +1,2 @@
-Release 2.15:
-Updated Regeneration
-
-Added DynamicSurroundings(Optional)
-Added FirstPersonModel(Optional)
+Release 2.15h1:
+Removed FastFurnace

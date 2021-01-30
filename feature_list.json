@@ -13,7 +13,7 @@
 				"optional/fp_model.json"
 			],
 			"default_": false
-		}.
+		},
 		{
 			"name": "JoJo's Resource Pack",
 			"packages": [

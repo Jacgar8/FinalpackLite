@@ -1,2 +1,5 @@
-Release 2.14:
-Updated AppliedEnergistics 2
+Release 2.15:
+Updated Regeneration
+
+Added DynamicSurroundings(Optional)
+Added FirstPersonModel(Optional)

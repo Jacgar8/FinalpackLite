@@ -1,5 +1,4 @@
 {
-	"version_": 0.5,
 	"files": [
 		"botania-client.toml",
 		"botania-common.toml",
@@ -22,7 +21,13 @@
 		"sndctrl/sndctrl-client.toml",
 		"bettercaves-1_14_4.toml",
 		"packmenu.cfg",
-		"iceandfire-common.toml"
+		"iceandfire-common.toml",
+		"iceandfire-client.toml",
+		"dsurround/dsurround-client.toml",
+		"dsurround/environs-client.toml",
+		"dsurround/mobeffects-client.toml",
+		"dsurround/sndctrl-client.toml",
+		"weeping_angels-common.toml"
 	],
 	"target": "config"
 }

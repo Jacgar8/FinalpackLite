@@ -1,26 +1,19 @@
 {
 	"features": [
 		{
-			"name": "Optifine", 
+			"name": "Dynamic Surroundings",
 			"packages": [
-				"optional/optifine.json"
-			],
-			"default_": false
-		},
-		{
-			"name": "Enhanced Effects",
-			"packages": [
-				"optional/enhanced_effects.json"
-			],
-			"default_": false
-		},
-		{
-			"name": "Armour Sounds (Requires Above)", 
-			"packages": [
-				"optional/armour_sounds.json"
+				"optional/dyn_surround.json"
 			],
 			"default_": true
 		},
+		{
+			"name": "First Person Model",
+			"packages": [
+				"optional/fp_model.json"
+			],
+			"default_": false
+		}.
 		{
 			"name": "JoJo's Resource Pack",
 			"packages": [

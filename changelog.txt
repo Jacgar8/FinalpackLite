@@ -1,2 +1,2 @@
-Release 2.15h1:
-Removed FastFurnace
+Release 2.16:
+Added TerraForged

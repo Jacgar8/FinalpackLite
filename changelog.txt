@@ -1,2 +1,8 @@
-Release 2.16:
-Added TerraForged
+Release 2.17:
+Updated Rats Mod
+Updated Citadel
+Updated Botania
+Updated Quark
+Updated Tetra
+Remove FastWorkbench (Fixes being unable to drop items in crafting menu)
+Removed Height And Bedrock Fog

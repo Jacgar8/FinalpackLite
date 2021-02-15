@@ -1,5 +1,7 @@
 # Mods
 
+[ExpansionMod](https://github.com/Jacgar8/FinalpackLite/tree/master/mods)
+
 [SecurityCraft](https://www.curseforge.com/minecraft/mc-mods/security-craft)
 
 [Apotheosis](https://www.curseforge.com/minecraft/mc-mods/apotheosis)
@@ -16,13 +18,11 @@
 
 [Curios](https://www.curseforge.com/minecraft/mc-mods/curios)
 
-[Fast Furnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
-
-[Fast Workbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
-
 [Gravestone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
 
 [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
+
+[Immersive Petroleum](https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum)
 
 [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 
@@ -30,13 +30,9 @@
 
 [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 
-[Obfuscate](https://www.curseforge.com/minecraft/mc-mods/obfuscate)
-
 [PackMenu](https://www.curseforge.com/minecraft/mc-mods/packmenu)
 
 [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
-
-[Permasomnia](https://www.curseforge.com/minecraft/mc-mods/permasomnia)
 
 [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo)
 
@@ -44,22 +40,27 @@
 
 [Rats](https://www.curseforge.com/minecraft/mc-mods/rats)
 
-[ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
-
-[Secret Rooms](https://www.curseforge.com/minecraft/mc-mods/secretroomsmod)
-
-[SereneSeasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
-
-[New TARDIS Mod](https://www.curseforge.com/minecraft/mc-mods/new-tardis-mod)
-
-[Master's Delight](https://www.curseforge.com/minecraft/mc-mods/the-masters-delight-a-new-tardis-mod-add-on)
-
 [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)
-
-[The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight)
-
-[MrCrayfish's Vechicle Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-vehicle-mod)
 
 [SBM Jukebox](https://www.curseforge.com/minecraft/mc-mods/sbm-jukebox)
 
 [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) 
+
+[Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2)
+
+[Regeneration](https://www.curseforge.com/minecraft/mc-mods/regeneration)
+
+[Weeping Angels](https://www.curseforge.com/minecraft/mc-mods/weeping-angels-mod)
+
+[Dynamic Surroundings (Optional)](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
+
+[First Person Model (Optional)](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
+
+[Platforms](https://www.curseforge.com/minecraft/mc-mods/platforms)
+
+[Shetiphian Core](https://www.curseforge.com/minecraft/mc-mods/shetiphiancore)
+
+[TerraForged](https://www.curseforge.com/minecraft/mc-mods/terraforged)
+
+[Ice And Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
+

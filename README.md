@@ -64,3 +64,6 @@
 
 [Ice And Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)
 
+[Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
+
+[Magical Psi: Redux](https://www.curseforge.com/minecraft/mc-mods/magical-psi-redux)

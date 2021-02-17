@@ -1,5 +1,4 @@
 Release 2.2:
-Updated ImmersiveEngineering
 Updated Regeneration
 Updated Tetra
 Updated Dynamic Surroundings

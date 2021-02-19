@@ -1,2 +1,7 @@
-Release 2.21:
-Added ImmersivePortals
+Release 2.2:
+Updated Regeneration
+Updated Tetra
+Updated Dynamic Surroundings
+Removed WeepingAngels
+Added Psi
+Added Magical Psi: Redux

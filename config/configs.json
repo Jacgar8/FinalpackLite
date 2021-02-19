@@ -22,7 +22,8 @@
 		"dsurround/environs-client.toml",
 		"dsurround/mobeffects-client.toml",
 		"dsurround/sndctrl-client.toml",
-		"weeping_angels-common.toml"
+		"weeping_angels-common.toml",
+		"immersiveengineering-client"
 	],
 	"target": "config"
 }

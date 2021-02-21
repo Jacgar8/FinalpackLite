@@ -1,7 +1,2 @@
-Release 2.2:
-Updated Regeneration
-Updated Tetra
-Updated Dynamic Surroundings
-Removed WeepingAngels
-Added Psi
-Added Magical Psi: Redux
+Release 2.4:
+Removed ImmersivePortals

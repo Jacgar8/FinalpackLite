@@ -67,3 +67,7 @@
 [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
 
 [Magical Psi: Redux](https://www.curseforge.com/minecraft/mc-mods/magical-psi-redux)
+
+[Abnormals Core](https://www.curseforge.com/minecraft/mc-mods/abnormals-core)
+
+[Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees)

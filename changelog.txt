@@ -1,9 +1,3 @@
 Release 2.5:
 -Mod Changes:
-	Added BuzzierBees
-	Added AbnormalsCore
-
-	Updated IceAndFire
-	Updated Psi
--Config Changes:
-	Nerfed Dragonsteel (iceandfire-common.toml)
+	Updated Soul Vials

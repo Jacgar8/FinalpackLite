@@ -4,5 +4,5 @@
     "botania-client.toml"
   ],
   "target": "config",
-  "override_": true
+  "override": true
 }

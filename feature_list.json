@@ -15,6 +15,13 @@
 			"default_": false
 		},
 		{
+			"name": "Optifine Compatible Mode",
+			"packages": [
+				"optional/optifine_compat.json"
+			],
+			"default_": false
+		},
+		{
 			"name": "JoJo's Resource Pack",
 			"packages": [
 				"optional/jojo_rs.json"

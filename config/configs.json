@@ -1,6 +1,5 @@
 {
 	"files": [
-		"botania-client.toml",
 		"botania-common.toml",
 		"create-client.toml",
 		"create-common.toml",

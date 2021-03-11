@@ -1,3 +1,30 @@
-Release 2.61:
+Release 2.7:
 -Mod Changes:
-	Added SimpleVoiceChat
+	Updated ImmersiveEngineering
+	Updated AppliedEnergistics
+	Updated Terraforged
+	Updated Tetra
+	Updated JEI
+	Updated Botania
+	Updated Patchouli
+	Updated Curios API (Forge)
+	Updated GraveStone Mod
+	Updated Placebo
+	Updated Morpheus
+	Updated PackMenu
+	Updated Quark
+	Updated Security Craft
+	Updated Citadel
+	Updated YUNG's Better Caves (Forge)
+	Updated Storage Drawers
+	Updated Doctor Who - Regeneration
+	Updated Platforms
+	Updated ShetiPhianCore
+	Updated Buzzier Bees
+	Updated Abnormals Core
+	Updated Simple Voice Chat
+
+	Added BetterEnd
+	Added YUNG's API
+	Added BetterMineshafts
+Note: This release requires Forge for 1.16.5.

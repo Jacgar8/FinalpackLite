@@ -1,3 +1,5 @@
-Release 2.71:
+Release 2.7.1:
 -Mod Changes:
 	Added SecretRoomsMod
+	
+Note for people with the new updater: You need to reselect the optional features on the left, as they did not carry over while updating

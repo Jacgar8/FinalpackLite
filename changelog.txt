@@ -1,5 +1,13 @@
-Release 2.7.1:
--Mod Changes:
-	Added SecretRoomsMod
-	
+Release 2.8.0:
+Updated GraveStone Mod
+Updated Just Enough Items (JEI)
+Updated Applied Energistics 2
+Updated Immersive Petroleum
+Updated TRansliterationLib
+Updated Simple Voice Chat
+Updated SecretRoomsMod
+
+Added ThreeCore
+Added PymTech
+
 Note for people with the new updater: You need to reselect the optional features on the left, as they did not carry over while updating

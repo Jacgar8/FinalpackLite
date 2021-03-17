@@ -5,21 +5,21 @@
 			"packages": [
 				"optional/dyn_surround.json"
 			],
-			"default_": true
+			"default_value": true
 		},
 		{
 			"name": "First Person Model",
 			"packages": [
 				"optional/fp_model.json"
 			],
-			"default_": false
+			"default_value": false
 		},
 		{
 			"name": "JoJo's Resource Pack",
 			"packages": [
 				"optional/jojo_rs.json"
 			],
-			"default_": false
+			"default_value": false
 		}
 	]
 }
